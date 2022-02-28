@@ -4,12 +4,6 @@ Simple middleware for [Slim Framework 4][slim], that allows managing PHP
 built-in sessions and includes a `Helper` class to help you with the `$_SESSION`
 superglobal.
 
-**For the middleware version for Slim Framework 3, please check out the `slim-3`
-branch in this repository.**
-
-**For the middleware version for Slim Framework 2, please check out the `slim-2`
-branch in this repository.**
-
 ## Installation
 
 Add this line to `require` block in your `composer.json`:
